@@ -13,7 +13,7 @@ The purpose of the course project is to collect, work with, and clean a data set
 The data set that is used for this project is collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the [site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) where the data was obtained.
 
 # Scripts
-A single R script is created run_analysis.R that does the following:
+A single R script is created `run_analysis.R` that does the following:
 *	reads the data from the given data sets
 *	merges the training set and test set into a single data frame
 *	extracts only measurements on the mean and standard deviation for each measurement
