@@ -17,6 +17,6 @@ A single R script is created `run_analysis.R` that does the following:
 *	reads the data from the given data sets
 *	merges the training set and test set into a single data frame
 *	extracts only measurements on the mean and standard deviation for each measurement
-*	replaces the activity ID by its appropriate descriptive label
+*	replaces the activity ID by its corresponding descriptive label
 *	creates a second data set with the average of each variable for each activity and each subject
 *	writes the second data set to a new file: tidy_data.txt
